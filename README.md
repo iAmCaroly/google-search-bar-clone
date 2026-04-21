@@ -15,4 +15,4 @@
 
 This is how it looks!
 
-![gif](amazon.gif)
+![gif](/img/google-clone.png)
